@@ -1,18 +1,22 @@
 <div align="center">
-# 🚀 N Gon Web
-### *High-Performance Interactive Web Experience & Canvas Engine*
 
-<p align="center">
-  [![Architect](https://img.shields.io/badge/Architect-Hsini%20Mohamed-0055ff?style=for-the-badge&logo=github&logoColor=white)](https://hsini.dev)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-hsini.dev-00c853?style=for-the-badge&logo=google-chrome&logoColor=white)](https://hsini.dev)
-  [![Language](https://img.shields.io/badge/Language-JavaScript-f59e0b?style=for-the-badge)](https://github.com/hsinidev)
-  [![Framework](https://img.shields.io/badge/Framework-WebGL%20/%20HTML5%20Canvas-6366f1?style=for-the-badge)](https://github.com/hsinidev)
-  [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
-</p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=180&section=header&text=N%20Gon%20Web&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=38" width="100%" style="max-width: 100%; border-radius: 12px; margin-bottom: 20px;" alt="N Gon Web Header Banner" />
+
+  <h1>🚀 N Gon Web</h1>
+  <p><em>High-Performance Interactive Web Experience & Canvas Engine</em></p>
+
+  <p align="center">
+    <a href="https://hsini.dev"><img src="https://img.shields.io/badge/Architect-Hsini%20Mohamed-0055ff?style=for-the-badge&logo=github&logoColor=white" alt="Architect: Hsini Mohamed" /></a>
+    <a href="https://hsini.dev"><img src="https://img.shields.io/badge/Portfolio-hsini.dev-00c853?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio: hsini.dev" /></a>
+    <a href="https://github.com/hsinidev"><img src="https://img.shields.io/badge/Language-JavaScript-f59e0b?style=for-the-badge" alt="Language: JavaScript" /></a>
+    <a href="https://github.com/hsinidev"><img src="https://img.shields.io/badge/Framework-WebGL%20/%20HTML5%20Canvas-6366f1?style=for-the-badge" alt="Framework: WebGL / HTML5 Canvas" /></a>
+    <a href="https://github.com/hsinidev/n-gon-web"><img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" alt="License: MIT" /></a>
+  </p>
 
 </div>
 
 ---
+
 ## 🌟 Executive Overview
 
 **N Gon Web** delivers a fast, responsive, and cross-platform browser experience built with **JavaScript** and hardware-accelerated canvas rendering.
@@ -25,6 +29,7 @@
 - **Local Storage State**: Automatic session persistence and state restoration.
 
 ---
+
 ## 🏗️ Architecture & Technology Stack
 
 - **Primary Language**: `JavaScript`
@@ -32,110 +37,6 @@
 - **Design Pattern**: Modular Clean Architecture / Domain-Driven Design
 - **License**: MIT Open Source Attribution
 
-## 📖 Deep-Dive Technical Documentation
-
-# N Gon Web - Play Online for Free
-
-## Overview
-Play N Gon Web online for free. Unblocked and available on all devices. Experience the best N Gon Web gameplay now!
-
-### Game Details & Guide
-N Gon Web: A Comprehensive Guide
-
-
-
-What is N Gon Web?
-
-
-N Gon Web is a browser game that offers endless entertainment with its colorful graphics, addictive gameplay, and simple yet challenging mechanics.
-
-
-
-How to Play
-
-
-To play N Gon Web, simply open the game in your preferred web browser. The controls are straightforward: use your mouse or keyboard to navigate through levels, collect coins, and destroy enemies.
-
-
-The objective is to survive for as long as possible by avoiding obstacles and collecting resources while avoiding falling off the screen.
-
-
-
-Tips and Tricks for Success
-
-
-Here are some tips to help you play N Gon Web like a pro:
-
-
-
-
-Start with easy levels to get familiar with the game mechanics and controls.
-
-
-Use your mouse wisely, as it can be used to move around, collect coins, or destroy enemies.
-
-
-Coffee breaks are essential; take advantage of them to grab some virtual coffee and avoid health depleting hiccups!
-
-
-Learn from your mistakes; don't waste time on unnecessary deaths. Instead, analyze what went wrong and try again with a fresh perspective.
-
-
-
-
-
-Why You Should Play It
-
-
-N Gon Web is an excellent choice for anyone looking for a fun, casual browser game that offers hours of entertainment without requiring any downloads or installations. The game's simplicity makes it accessible to players of all ages and skill levels.
-
-
-It's also free to play, with no ads or in-app purchases to distract you from the gameplay experience. Plus, the game's graphics are vibrant and colorful, making it a joy to look at.
-
-
-
-Additional Tips and Tricks
-
-
-Here are some additional tips to enhance your N Gon Web gaming experience:
-
-
-
-
-Use keyboard shortcuts to speed up your gameplay; for example, press 'T' to toggle between different game modes or 'Space' to pause the game.
-
-
-Take advantage of level editor features to create your own custom levels and share them with the community.
-
-
-Participate in online leaderboards to challenge friends and other players to improve your skills.
-
-
-
-
-
-Conclusion
-
-
-N Gon Web is a great addition to any browser gaming library, offering endless entertainment and hours of fun without requiring any downloads or installations. With its simple yet challenging gameplay mechanics and colorful graphics, it's an excellent choice for anyone looking for a casual browser game that can be played on the go.
-
-## Technical Specifications
-- **Technology**: Unity WebGL, Construct, HTML5
-- **Compatible Browsers**: Chrome, Firefox, Safari, Edge
-- **Architecture**: Client-side execution (HTML5/JavaScript)
-
-## About the Project
-This game is part of a curated collection of high-performance web games maintained by **HSINI MOHAMED**. The project focuses on providing unblocked, fast-loading, and responsive gaming experiences to users worldwide.
-
-**HSINI MOHAMED**
-- **Email**: [hsini.web@gmail.com](mailto:hsini.web@gmail.com)
-- **Website**: [https://unlockedgames.io](https://unlockedgames.io)
-- **Portfolio**: [Explore more games](https://unlockedgames.io)
-
----
-© 2024 **HSINI MOHAMED**. All games are hosted and maintained for educational and entertainment purposes.
-
----
 ## 🚀 Quick Start & Installation
 
 ### 1. Clone the Repository
